@@ -1,4 +1,4 @@
-# Auto-osu-map-download-from-link (made by sheynor + ChatGPT)
+# Auto osu map download from link
 # osu! Beatmap Downloader (Python)
 
 Скрипт для **автоматической загрузки карт osu! (.osz)** по списку ссылок из `links.txt`.  
